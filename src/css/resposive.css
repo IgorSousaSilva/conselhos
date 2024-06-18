@@ -1,0 +1,16 @@
+@media(max-width: 768px) {
+    .card {
+        width: 320px;
+    }
+
+    .card .advice-description {
+        font-size: 21px;
+        padding: 30px;
+    }
+
+    .card picture img {
+        
+        width: 90%;
+    }
+
+}
